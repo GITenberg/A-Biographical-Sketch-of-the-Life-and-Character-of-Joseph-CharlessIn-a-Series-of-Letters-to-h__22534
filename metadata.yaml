@@ -1,0 +1,28 @@
+_repo: A-Biographical-Sketch-of-the-Life-and-Character-of-Joseph-CharlessIn-a-Series-of-Letters-to-h__22534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charless, Charlotte Taylor Blow
+    gutenberg_agent_id: '25388'
+    url: http://www.gutenberg.org/2009/agents/25388
+description: Letters written by Charlotte Taylor Blow Charless, signed "Grandma" and
+  dated from 1860-1862, about her family and her father Joseph Charless, Jr. (1804-1859).
+gutenberg_issued: '2007-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- Missouri -- Saint Louis -- History'
+- !lcsh 'Charless, Joseph, 1772-1834'
+- !lcc 'F476'
+title: 'A Biographical Sketch of the Life and Character of Joseph Charless
+
+  In a Series of Letters to his Grandchildren'
+url: http://www.gutenberg.org/ebooks/22534
