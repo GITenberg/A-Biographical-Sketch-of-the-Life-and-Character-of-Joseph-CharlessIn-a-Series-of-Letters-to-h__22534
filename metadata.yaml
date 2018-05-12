@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25388
 description: Letters written by Charlotte Taylor Blow Charless, signed "Grandma" and
   dated from 1860-1862, about her family and her father Joseph Charless, Jr. (1804-1859).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22534#A-Biographical-Sketch-of-the-Life-and-Character-of-Joseph-CharlessIn-a-Series-of-Letters-to-h_
 gutenberg_issued: '2007-09-06'
 gutenberg_type: Text
 identifiers:
